@@ -94,10 +94,8 @@ Further analysis could explore:
 
 ## References
 
-- Dataset: [Electric Vehicle Population Data](#) (Include dataset link here)
 - Python Libraries: pandas, matplotlib, seaborn
 - Charts and Visualizations: [Figure 1: EV Adoption Over Time], [Figure 2: Top Cities in Top Counties by EV Registrations], [Figure 3: Distribution of Electric Vehicle Types], [Figure 4: Top 10 Popular EV Makes], [Figure 5: Electric Vehicle Range Distribution], [Figure 6: Trends in Popular EV Models]
 
----
 
-This project was conducted as part of a market size analysis task using Python. The analysis and visualizations provide valuable insights into the current state of the EV market in the U.S.
+
