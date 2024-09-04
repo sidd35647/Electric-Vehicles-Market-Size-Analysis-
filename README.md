@@ -25,7 +25,7 @@ The dataset used in this analysis is based on the electric vehicle population in
 
 The analysis begins with a look at the adoption of electric vehicles over time. The EV Adoption Over Time chart below shows the number of EVs registered by model year.
 
-![EV Adoption Over Time](images/chart1.png)
+![EV Adoption Over Time](chart1.png)
 
 *Key Findings:*
 - *Growth Trend*: There is a clear upward trend in EV adoption, particularly from 2016 onwards. The year 2023 marks a peak in registrations, indicating a significant rise in EV popularity.
@@ -35,7 +35,7 @@ The analysis begins with a look at the adoption of electric vehicles over time. 
 
 The geographical analysis focuses on the top three counties based on EV registrations. The Top Cities in Top Counties by EV Registrations chart below highlights the cities within these counties with the highest EV registrations.
 
-![Top Cities in Top Counties by EV Registrations](images/chart2.png)
+![Top Cities in Top Counties by EV Registrations](chart2.png)
 
 *Key Findings:*
 - *Concentration in King County*: King County dominates EV registrations, with Seattle leading by a significant margin.
@@ -45,7 +45,7 @@ The geographical analysis focuses on the top three counties based on EV registra
 
 The distribution of electric vehicle types is examined in the Distribution of Electric Vehicle Types chart below.
 
-![Distribution of Electric Vehicle Types](images/chart3.png)
+![Distribution of Electric Vehicle Types](chart3.png)
 
 *Key Findings:*
 - *BEV Dominance*: Battery Electric Vehicles (BEVs) are more prevalent compared to Plug-in Hybrid Electric Vehicles (PHEVs), indicating a consumer preference for fully electric vehicles.
@@ -64,7 +64,7 @@ The popularity of EV manufacturers and specific models is analyzed using the Top
 
 This section examines the distribution of electric vehicle ranges, providing insight into the performance capabilities of different EV models. The Electric Vehicle Range Distribution chart below illustrates this.
 
-![Electric Vehicle Range Distribution](images/chart5.png)
+![Electric Vehicle Range Distribution](chart5.png)
 
 *Key Findings:*
 - *Wide Range of Options*: EVs are available with a wide range of electric ranges, catering to different consumer needs.
@@ -74,7 +74,7 @@ This section examines the distribution of electric vehicle ranges, providing ins
 
 The analysis of trends in specific EV models over time provides insight into how certain models have gained or lost popularity. The Trends in Popular EV Models chart below shows the registration trends for a few popular models.
 
-![Trends in Popular EV Models](images/chart6.png)
+![Trends in Popular EV Models](chart6.png)
 
 *Key Findings:*
 - *Tesla Model 3's Surge*: The Tesla Model 3 shows a significant surge in popularity, becoming one of the most registered EVs in recent years.
